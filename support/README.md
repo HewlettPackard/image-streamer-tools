@@ -1,6 +1,6 @@
 support - Artifacts to validate installation and operation of HPE Image Streamer. This include a very small golden image which just contains a GRUB boot loader. Artifacts for this simple image alow customizable parameters to be set which can be validated in the boot loader display of a deployed HPE Synergy Compute Module.
 
-#Artifact Bundle Contents
+# Artifact Bundle Contents
 --------------------------------------------------------------------------------
          File name: HPE-Support-Artifacts-2017-03-15.zip
          Name (in manifest): HPE-Support-Artifacts-2017-03-15
