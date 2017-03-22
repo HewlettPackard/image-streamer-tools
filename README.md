@@ -15,7 +15,7 @@ LICENSE2 - Referenced by grub which is contained in the two golden images in thi
 
 grub-0.97-94.el6_7.1.src.rpm - Source file for grub contained in the two golden images in this repository
 
-###Golden Image files in this repository:  
+### Golden Image files in this repository:  
 This repository includes two very small golden images which just contain a GRUB boot loader, grub configuration and message files. Artifacts for these simple images alow customizable parameters to be set which can be validated in the boot loader display of a deployed HPE Synergy Compute Module.  The following golden images are respectively in the developer and support artifact bundles. 
 
 * HPE - Developer 1.0 - UEFI Test Image - v1.00
@@ -26,7 +26,7 @@ The golden images are identical in content and contain the following files
 * grub.conf
 * messages.text
  
-###grub.efi  
+### grub.efi  
 Name : grub  
 Version : 0.97  
 Vendor : CentOS  
@@ -34,7 +34,8 @@ Release : 94.el6
 Summary : Grand Unified Boot Loader.  
 Description : GRUB (Grand Unified Boot Loader) is an experimental boot loader capable of booting into most free operating systems - Linux, FreeBSD, NetBSD, GNU Mach, and others as well as most commercial operating systems.
 
-###grub.conf  
+### grub.conf  
+```
  # (c) Copyright 2017 Hewlett Packard Enterprise Development LP  
  #  
  # Licensed under the Apache License, Version 2.0 (the "License");  
@@ -57,14 +58,15 @@ title Image Streamer OS Volume deployment demo
 title Exit  
     quit  
 EOF  
- 
-###message.txt  
+``` 
+### message.txt  
+```
  # (c) Copyright 2017 Hewlett Packard Enterprise Development LP  
  #
  # Licensed under the Apache License, Version 2.0 (the "License");  
  # you may not use this file except in compliance with the License.  
  # You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0  
- #  
+ # 
  # Unless required by applicable law or agreed to in writing, software distributed  
  # under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR  
  # CONDITIONS OF ANY KIND, either express or implied. See the License for the  
@@ -73,6 +75,6 @@ EOF
 UEFI loader message.txt has been generalized!  
  
 EOF  
-
+```
 
 
