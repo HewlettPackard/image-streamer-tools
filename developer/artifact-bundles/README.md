@@ -4,6 +4,13 @@
 - All artifact bundles in this repo are compatible with ImageStreamer v3.1 release
 - Click on 'Branch:' drop down menu on this page to get artifact bundles for other ImageStreamer releases
 
+## Version History:
+HPE-ImageStreamer-Developer-2017-07-07-v3.0.zip
+ - Bug fixes
+ 
+ HPE-ImageStreamer-Developer-2017-03-24.zip
+  - Initial Version
+
 ## Artifact Bundle Contents
 
 The UEFI grub image available in CentOS 6.7 distribution is used without any modification as a golden image in this artifact bundle. 
