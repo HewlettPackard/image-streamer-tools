@@ -1,7 +1,7 @@
-# Developer artifacts for ImageStreamer v3.1 release
+# Developer artifacts for ImageStreamer v4.0 release
 
 ## Note: 
-- All artifact bundles in this repo are compatible with ImageStreamer v3.1 release
+- All artifact bundles in this repo are compatible with ImageStreamer v4.0 release
 - Click on 'Branch:' drop down menu on this page to get artifact bundles for other ImageStreamer releases
 
 ## Version History:
