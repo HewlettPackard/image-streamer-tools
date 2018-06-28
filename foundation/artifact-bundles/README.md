@@ -1,26 +1,21 @@
-# Foundation artifact bundle for ImageStreamer v4.0 release
+
+# Foundation artifact bundle for ImageStreamer v4.1 release
 
 ## Note: 
-- All artifact bundles in this repo are compatible with ImageStreamer v4.0 release
+- All artifact bundles in this repo are compatible with ImageStreamer v4.1 release
 - Click on 'Branch:' drop down menu on this page to get artifact bundles for other ImageStreamer releases
 
 ## Version history
 
-HPE-Foundation-Artifacts-2017-10-13-v3.0.zip
+HPE-Foundation-Artifacts-2017-10-13-v4.1
  - Defect fixes
- 
-HPE-Foundation-Artifacts-2017-07-19-v3.0.zip
- - Bug fixes
- 
-HPE-Foundation-Artifacts-2017-03-24.zip
-  - Initial version
 
 ## Artifact Bundle Contents
 
 --------------------------------------------------------------------------------
 
-	            File name: HPE-Foundation-Artifacts-2017-10-13-v3.0.zip
-		Name (in manifest): HPE-Foundation-Artifacts-2017-10-13-v3.0
+	                 File name: HPE-Foundation-Artifacts-2017-10-13-v4.1.zip
+		Name (in manifest): HPE-Foundation-Artifacts-2017-10-13-v4.1
 		       Description: Artifacts to demonstrate basic Image Streamer functionalities. 
 		             Dated: 2017-10-13 (05:20:59)
 
@@ -55,4 +50,5 @@ Plan Scripts:
 	       Name: HPE - Foundation 1.0 - create empty OS Volume - 2017-03-24 (deploy)
 	   FullName: ca5cb794-86bc-43db-9347-3619c5aa830b_planscript.json
 	Description: Create an empty OS Volume to be used as the target for OS install. After OS install, the OS Volume may be used to capture a new Golden Image.
+
 
