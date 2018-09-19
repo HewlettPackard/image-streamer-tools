@@ -8,8 +8,12 @@
 ## Version history
 
 HPE-Foundation-Artifacts-2018-09-11-v4.1
- - Upload and extract of bundle failing due to multiple etag issue resolved
-
+ - Defects fixed:
+   - Foundation artifact bundle extract after upgrade does not prompt appropriate message.
+     After update of Image Streamer from an older to newer version, Foundation artifact bundle for both version are available in the     appliance. If the Foundation bundle of one version is extracted, extraction of artifacts from another bundle may have issues.
+   - If the Foundation artifact bundle is deleted from the i3s appliance, upload of a new Foundation bundle does not work.
+     Delete of the Foundation artifact bundle on the i3s appliance works correctly. But after delete, when a new Foundation artifact bundle is uploaded, the upload fails. 
+     
 HPE-Foundation-Artifacts-2017-10-13-v4.1
  - Defect fixes
 
