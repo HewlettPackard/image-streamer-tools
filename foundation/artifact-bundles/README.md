@@ -9,10 +9,10 @@
 
 --------------------------------------------------------------------------------
 
-	                 File name: HPE-Foundation-Artifacts-2018-09-11-v4.1.zip
-		Name (in manifest): HPE_Foundation_Artifacts-4_10
+	                 File name: HPE-Foundation-Artifacts-4.20.zip
+		Name (in manifest): HPE_Foundation_Artifacts-4_20
 		       Description: Artifacts to demonstrate basic Image Streamer functionalities. 
-		             Dated: 2018-01-30 (17:10:45)
+		             Dated: 2019-02-22 (17:10:45)
 
 --------------------------------------------------------------------------------
 
