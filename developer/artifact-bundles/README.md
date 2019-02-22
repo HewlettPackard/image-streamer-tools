@@ -1,13 +1,8 @@
-# Developer artifacts for ImageStreamer v4.1 release
+# Developer artifacts for ImageStreamer v4.2 release
 
 ## Note: 
-- All artifact bundles in this repo are compatible with ImageStreamer v4.1 release
+- All artifact bundles in this repo are compatible with ImageStreamer v4.2 release
 - Click on 'Branch:' drop down menu on this page to get artifact bundles for other ImageStreamer releases
-
-## Version History:
-
-HPE-ImageStreamer-Developer-2017-08-28-v4.1.zip
- - Bug fixes 
 
 ## Artifact Bundle Contents
 
@@ -32,8 +27,8 @@ Description : GRUB (Grand Unified Boot Loader) is an experimental boot loader ca
 
 --------------------------------------------------------------------------------
 
-	                 File name: HPE-ImageStreamer-Developer-2017-08-28-v4.1.zip
-		Name (in manifest): HPE-ImageStreamer-Developer-2017-08-28-v4.1
+	                 File name: HPE-ImageStreamer-Developer-2017-08-28-v4.2.zip
+		Name (in manifest): HPE-ImageStreamer-Developer-2017-08-28-v4.2
 		       Description: Artifact bundle to aid in learning and developing HPE Image Streamer artifacts		       
 		             Dated: 2017-09-07 (15:44:32)
 
