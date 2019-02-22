@@ -27,10 +27,10 @@ Description : GRUB (Grand Unified Boot Loader) is an experimental boot loader ca
 
 --------------------------------------------------------------------------------
 
-	                 File name: HPE-Support-Artifacts-2017-11-29-v4.1.zip
-		Name (in manifest): HPE-Support-Artifacts-2017-11-29-v4.1
+	                 File name: HPE-Support-Artifacts-4.20.zip
+		Name (in manifest): HPE-Support-Artifacts-4_20
 		       Description: Artifacts to verify Image Streamer installation and configuration. 
-		             Dated: 2017-11-29 (19:25:35)
+		             Dated: 2019-02-22 (19:25:35)
 
 --------------------------------------------------------------------------------
 
