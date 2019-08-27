@@ -27,10 +27,10 @@ Description : GRUB (Grand Unified Boot Loader) is an experimental boot loader ca
 
 --------------------------------------------------------------------------------
 
-	                 File name: HPE-Support-Artifacts-4.20.zip
-		Name (in manifest): HPE-Support-Artifacts-4_20
+	            File name: HPE-Support-Artifacts-2017-11-29-v5.0.zip
+		Name (in manifest): HPE-Support-Artifacts-2017-11-29-v5.0
 		       Description: Artifacts to verify Image Streamer installation and configuration. 
-		             Dated: 2019-02-22 (19:25:35)
+		             Dated: 2017-11-29 (19:25:35)
 
 --------------------------------------------------------------------------------
 
@@ -43,13 +43,13 @@ Golden Images:
 
 Deployment Plans:
 
-	       Name: HPE - Support 1.0 - network deployment test-2017-11-29 (Type:OEDeploymentPlan)
-	Description: Read only deployment plan to test network deployment
+	        Name: HPE - Support 1.0 - network deployment test-2017-11-29 (Type:OEDeploymentPlan)
+	 Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.
 	GoldenImage: HPE - Support 1.0 - UEFI Test Image - 2017-03-24
 
 
-	       Name: HPE - Support 1.0 - simple deployment test-2017-11-29 (Type:OEDeploymentPlan)
-	Description: Read only deployment plan for simple deployment
+	        Name: HPE - Support 1.0 - simple deployment test-2017-11-29 (Type:OEDeploymentPlan)
+	 Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.
 	GoldenImage: HPE - Support 1.0 - UEFI Test Image - 2017-03-24
 
 
@@ -57,10 +57,13 @@ Deployment Plans:
 Build Plans:
 
 	       Name: HPE - Support 1.0 - simple test deployment (UEFI) - 2017-11-29 (Type:deploy)
-	Description: HPE - Support 1.0 - simple test deployment (UEFI)
+	Description: HPE - Support 1.0 - simple test deployment (UEFI) - 2017-03-24 (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance.
+
 
 	       Name: HPE - Support 1.0 - network test deployment (UEFI) - 2017-11-29 (Type:deploy)
-	Description: HPE - Support 1.0 - network test deployment (UEFI) 
+	Description: HPE - Support 1.0 - network test deployment (UEFI) - 2017-03-24 (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance;...
+
+
 
 Plan Scripts:
 
