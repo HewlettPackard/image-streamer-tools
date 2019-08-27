@@ -1,18 +1,18 @@
 
-# Foundation artifact bundle for ImageStreamer v4.2 release
+# Foundation artifact bundle for ImageStreamer v5.0 release
 
 ## Note: 
-- All artifact bundles in this repo are compatible with ImageStreamer v4.2 release
+- All artifact bundles in this repo are compatible with ImageStreamer v5.0 release
 - Click on 'Branch:' drop down menu on this page to get artifact bundles for other ImageStreamer releases
 
 ## Artifact Bundle Contents
 
 --------------------------------------------------------------------------------
 
-	                 File name: HPE-Foundation-Artifacts-4.20.zip
-		Name (in manifest): HPE_Foundation_Artifacts-4_20
+	            File name: HPE_Foundation_Artifacts-5_00.zip
+		Name (in manifest): HPE_Foundation_Artifacts-5_00.zip
 		       Description: Artifacts to demonstrate basic Image Streamer functionalities. 
-		             Dated: 2019-02-22 (17:10:45)
+		             Dated: 2017-10-13 (05:20:59)
 
 --------------------------------------------------------------------------------
 
@@ -20,7 +20,6 @@ Deployment Plans:
 
 	        Name: HPE - Foundation 1.0 - create empty OS Volume-2017-10-13 (Type:OEDeploymentPlan)
 	 Description: Create an empty OS Volume to be the target for OS install. 
-
 
 
 Build Plans:
@@ -32,17 +31,19 @@ Build Plans:
 	Description: Create empty OS Volume version 1.00 Create an empty OS Volume to be the target for OS install.
 
 	       Name: HPE - Foundation 1.0 - deploy Golden Image as is - 2017-07-19 (Type:deploy)
-	Description: Deploy Golden Image as is with no personalization changes to the OS Volume. 
-
+	Description: Deploy Golden Image as is with no personalization changes to the OS Volume.
 
 
 Plan Scripts:
 
-	       Name: HPE - Foundation 1.0 - create empty OS Volume - 2017-03-24 (deploy)
-	Description: Create an empty OS Volume to be used as the target for OS install. After OS install, the OS Volume may be used to capture a new Golden Image.
-
-
 	       Name: HPE - Foundation 1.0 - fail OS deployment-2017-03-24 (deploy)
+	   FullName: 0a3d4931-1715-4210-ad23-54212a2a6c51_planscript.json
 	Description: Fail OS deployment - version 1.00 
 	             Cause OS deployment to fail.
+
+
+	       Name: HPE - Foundation 1.0 - create empty OS Volume - 2017-03-24 (deploy)
+	   FullName: ca5cb794-86bc-43db-9347-3619c5aa830b_planscript.json
+	Description: Create an empty OS Volume to be used as the target for OS install. After OS install, the OS Volume may be used to capture a new Golden Image.
+
 
