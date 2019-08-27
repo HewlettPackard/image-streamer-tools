@@ -1,7 +1,7 @@
-# Developer artifacts for ImageStreamer v4.2 release
+# Developer artifacts for ImageStreamer v5.0 release
 
 ## Note: 
-- All artifact bundles in this repo are compatible with ImageStreamer v4.2 release
+- All artifact bundles in this repo are compatible with ImageStreamer v5.0 release
 - Click on 'Branch:' drop down menu on this page to get artifact bundles for other ImageStreamer releases
 
 ## Artifact Bundle Contents
@@ -27,29 +27,29 @@ Description : GRUB (Grand Unified Boot Loader) is an experimental boot loader ca
 
 --------------------------------------------------------------------------------
 
-	                 File name: HPE-ImageStreamer-Developer-2017-08-28-v4.2.zip
-		Name (in manifest): HPE-ImageStreamer-Developer-2017-08-28-v4.2
-		       Description: Artifact bundle to aid in learning and developing HPE Image Streamer artifacts		       
+	            File name: HPE-ImageStreamer-Developer-2017-08-28-v5.0.zip
+		Name (in manifest): HPE-ImageStreamer-Developer-2017-08-28
+		       Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License.
 		             Dated: 2017-09-07 (15:44:32)
 
 --------------------------------------------------------------------------------
 
-
 Golden Images:
 
 	        Name: HPE - Developer 1.0 - UEFI Test Image - 2017-03-24
-	Description: HPE Golden Image for testing OS Deployment. This Golden Image includes a UEFI System Partition and a GRUB loader having a simple configuration to show a message on the server console at boot. 
+	Description: HPE Golden Image for testing OS Deployment. This Golden Image includes a UEFI System Partition and a GRUB loader having a simple configuration to show a message on the server console at boot. (c) Copyright 2017 Hewlett Packard Enterprise Development LP;
 
 
 
 Deployment Plans:
 
 	        Name: User - Developer 1.0 - Deployment Test (UEFI) - 2017-03-24 (Type:OEDeploymentPlan)
-	 Description: User editable deployment plan to deploy UEFI image
+	 Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License.
 	GoldenImage: HPE - Developer 1.0 - UEFI Test Image - 2017-03-24
 
+
 	        Name: HPE - Developer 1.0 - Deployment Test (UEFI) - 2017-03-24 (Type:OEDeploymentPlan)
-	 Description: Read only deployment plan to deploy UEFI image
+	 Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License.
 	GoldenImage: HPE - Developer 1.0 - UEFI Test Image - 2017-03-24
 
 
@@ -57,19 +57,24 @@ Deployment Plans:
 Build Plans:
 
 	       Name: HPE - Developer 1.0 - example UEFI capture - 2017-03-24 (Type:capture)
-	Description: Read only build plan to capture UEFI image
+	Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License;...
+
 
 	       Name: HPE - Developer 1.0 - example attribute types - 2017-08-28 (Type:deploy)
-	Description: Read only build plan to demonstrate various custom attribute types
+	Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License;...
+
 
 	       Name: HPE - Developer 1.0 - example UEFI deploy - 2017-03-24 (Type:deploy)
-	Description: Read only build plan to deploy UEFI image
+	Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License.
+
 
 	       Name: User - Developer 1.0 - example UEFI capture - 2017-03-24 (Type:capture)
-	Description: User editable build plan to capture UEFI image
+	Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License;...
+
 
 	       Name: User - Developer 1.0 - example UEFI deploy - 2017-03-24 (Type:deploy)
-	Description: User editable build plan to deploy UEFI image
+	Description: (c) Copyright 2017 Hewlett Packard Enterprise Development LP. Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License.
+
 
 
 Plan Scripts:
